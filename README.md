@@ -2,7 +2,7 @@ This is code I found in resolv discord, should update
 
 
 
-# DebankPortfolio
+# DebankPortfolio ultimate
 
 I'm sick of refreshing the Debank site every morning to see how things look.
 
