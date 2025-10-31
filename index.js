@@ -125,6 +125,6 @@ discord.once('ready', async () => {
   discord.destroy();
 });
 
-discord.on('error', console.error);
+discord.on('error 1', console.error);
 
 await discord.login(process.env.DISCORD_APP_TOKEN);
